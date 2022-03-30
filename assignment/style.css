@@ -3,7 +3,13 @@ body {
 background-color: darkcyan;
 }
 /* Make the header and footer a different color from the background */
+header {
+    background-color: palevioletred;
+}
 
+footer {
+    background-color: burlywood;
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
