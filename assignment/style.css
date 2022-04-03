@@ -12,7 +12,6 @@ header {
     padding-left: 10px;
     padding-right: 10px;
     border: solid black 5px;
-    padding-top: -5px;
 }
 
 ul {
@@ -41,6 +40,7 @@ p {
 img {
     border: solid black 10px;
     width: 50%;
+    margin-top: 10px;
 }
 /* Change the font-family of your list */
 li {
