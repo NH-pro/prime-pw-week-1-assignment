@@ -21,6 +21,10 @@ ul {
 
 footer {
     background-color: burlywood;
+    max-width: max-content;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
