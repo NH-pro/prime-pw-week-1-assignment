@@ -9,6 +9,8 @@ header {
     background-color: palevioletred;
     max-width: max-content;
     margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 ul {
