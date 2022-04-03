@@ -1,7 +1,8 @@
 /* Give your page a fun background color */
 body {
 background-color: darkcyan;
-margin: max-content;
+margin: 0 auto;
+max-width: max-content;
 text-align: center;
 }
 /* Make the header and footer a different color from the background */
