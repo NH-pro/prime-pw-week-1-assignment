@@ -2,7 +2,6 @@
 body {
 background-color: darkcyan;
 margin: 0 auto;
-max-width: max-content;
 text-align: center;
 }
 /* Make the header and footer a different color from the background */
