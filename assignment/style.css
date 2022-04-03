@@ -7,6 +7,7 @@ text-align: center;
 /* Make the header and footer a different color from the background */
 header {
     background-color: palevioletred;
+    max-width: max-content;
 }
 
 ul {
